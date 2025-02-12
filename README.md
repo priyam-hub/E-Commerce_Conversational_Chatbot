@@ -59,9 +59,9 @@ This project is an AI-powered conversational chatbot designed for e-commerce pla
 4. **Set up environment variables**
    - Create a `.env` file and add the following:
      ```env
-     GROQ_API_KEY=your_api_key_here
-     QDRANT_URL=your_qdrant_url_here
-     QDRANT_API_KEY=your_qdrant_api_key_here
+     GROQ_API_KEY    =your_api_key_here
+     QDRANT_URL      =your_qdrant_url_here
+     QDRANT_API_KEY  =your_qdrant_api_key_here
      ```
 5. **Run the Flask server**
    ```sh

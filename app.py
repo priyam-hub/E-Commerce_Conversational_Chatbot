@@ -17,7 +17,7 @@ llm = ChatGroq(temperature  = TEMPERATURE ,
 
 @app.route('/')
 def home():
-    return render_template('index_home.html')
+    return render_template('home.html')
 
 @app.route('/chatbot')
 def chatbot():

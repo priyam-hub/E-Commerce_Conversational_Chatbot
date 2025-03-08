@@ -113,7 +113,7 @@ This project is licensed under the MIT License.
 
 <div align="center">
 
-**Made with ❤️ by Priyam Pal - AI and Data Science Engineer**
+**Made with ❤️ by Team Technocrats - AI and Data Science Engineer**
 
 [↑ Back to Top]()
 
